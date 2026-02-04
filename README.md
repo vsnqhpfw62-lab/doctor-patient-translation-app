@@ -14,4 +14,4 @@ This is a prototype web application built for Nao Medical’s take-home assignme
 - Node.js + Express (Backend prototype)
 
 ### Notes
-Due to time constraints and an iPad-only development environment, the deployed version focuses on frontend functionality. Backend logic is included in the repository to demonstrate full-stack architecture and intended server-side design.
+This project was built as a time-boxed prototype to demonstrate system design, feature prioritization, and AI integration. The deployed version focuses on frontend interaction and user experience, while the repository includes backend code to illustrate the intended server-side architecture and data flow. With additional time, the backend would be connected to persistent storage and real-time communication services.
